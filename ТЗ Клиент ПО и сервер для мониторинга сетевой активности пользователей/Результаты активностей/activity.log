@@ -1,0 +1,348 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.100:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 626-735-453
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:53] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:53] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+INFO:root:Screenshot saved: screenshots\screenshot.png
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:53] "POST /screenshot HTTP/1.1" 200 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:54] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:54] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:55] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:55] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:56] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:57] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:57] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:58] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:58] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:59] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:16:59] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:00] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:01] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:01] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:02] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging keyboard activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:02] "[35m[1mPOST /keyboard_activity HTTP/1.1[0m" 500 -
+ERROR:root:error logging mouse activity: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:17:03] "[35m[1mPOST /mouse_activity HTTP/1.1[0m" 500 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:11] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:11] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Screenshot saved: screenshots\screenshot.png
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:11] "POST /screenshot HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:12] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:12] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:13] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:13] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:14] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:14] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:15] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:15] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:16] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:16] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:17] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:17] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:18] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:19] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:19] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:20] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:21] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:21] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:22] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:22] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:23] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:23] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:24] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:24] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:25] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:25] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:26] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:26] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:27] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:27] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:28] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:28] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:29] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:29] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:30] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 16:19:30] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.100:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 626-735-453
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:08] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:08] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:09] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:09] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:10] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:10] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:11] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:11] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:12] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:12] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:13] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:13] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:14] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:14] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:15] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:15] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:16] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:16] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:17] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:17] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:18] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:18] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:19] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:19] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:20] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:20] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:21] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:21] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:22] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:22] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:23] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:23] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:24] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:24] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:25] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:26] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:27] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:27] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:28] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:28] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:29] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:29] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:30] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:30] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:31] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:31] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:32] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:32] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:33] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:33] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:34] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:34] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:35] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:35] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:36] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:36] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:37] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:37] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:38] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:38] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:39] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:39] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:40] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:40] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:41] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:41] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:42] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:42] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:43] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:43] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:44] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:44] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:45] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:45] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:46] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:46] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:47] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:47] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:48] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:48] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:49] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:49] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:50] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:50] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:51] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:52] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:52] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:53] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:54] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:54] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:55] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:55] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:56] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:56] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:57] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:57] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:58] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:58] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Screenshot saved: screenshots\screenshot.png
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:59] "POST /screenshot HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:59] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:09:59] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:00] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:00] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:01] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:01] "POST /mouse_activity HTTP/1.1" 200 -
+INFO:root:Keyboard Activity: {'client_id': -1, 'activity': 'Key pressed'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:02] "POST /keyboard_activity HTTP/1.1" 200 -
+INFO:root:Mouse Activity: {'client_id': -1, 'activity': 'Mouse moved'}
+INFO:werkzeug:127.0.0.1 - - [19/Jul/2024 17:10:02] "POST /mouse_activity HTTP/1.1" 200 -
